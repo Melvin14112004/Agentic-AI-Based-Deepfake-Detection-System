@@ -1,6 +1,4 @@
-# Agentic-AI-Based-Deepfake-Detection-System
-
-## Title of the Project
+# Title of the Project
 
 The **Agentic-AI-Based-Deepfake-Detection-System** is a research-oriented AI project focused on studying and evaluating deepfake detection techniques under real-world conditions. The project explores how deep learning models can be integrated into a practical system capable of analyzing manipulated videos using both uploaded files and URL-based inputs.
 
