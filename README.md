@@ -127,6 +127,19 @@ The project also serves as a foundation for future research in:
 - Integration with social media verification systems  
 - Improved evaluation on diverse real-world datasets  
 
+## Acknowledgment
+
+This project was developed as a research-oriented prototype with the support of existing open-source deepfake detection research and pretrained model resources.
+
+Special acknowledgment to:
+
+- **Naman712/Deep-fake-detection**
+- Hugging Face open-source model resources and community contributions
+
+for providing valuable implementation references, pretrained model integration ideas, and research inspiration related to deepfake detection workflows.
+
+This project primarily focuses on studying, evaluating, and adapting deepfake detection techniques for practical and real-world usage scenarios.
+
 ## Articles Published / References
 
 1. A. Rössler et al., “FaceForensics++: Learning to Detect Manipulated Facial Images,” Proc. IEEE/CVF Int. Conf. Computer Vision (ICCV), 2019.  
